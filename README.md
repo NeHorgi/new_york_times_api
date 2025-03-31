@@ -20,14 +20,19 @@ The easiest way is just clone the whole repo from GitHub.
        python -m venv venv
        venv/bin/activate
     Or do it manually, how it is suits to you.
-4) Create ".env" file in the root of directory and fill it with following data:
+3) Create ".env" file in the root of directory and fill it with following data:
 
        API_KEY - New York Times API key
    
    You can find all of these parameters on the page for developers, who use New York Times API.
 
-7) In cmd in you work directory run command
+4) In cmd in you work directory run command
 
        python .\main.py
     
     or start manually from the module.
+
+Base parametrs of the scrips are: page - 10, query - "Silicon Valley", but you can find any artciles you want and how many you want, just chabge this parametrs.
+Params:
+       page - How many pages you will found 
+       query - Any key words you would like to use
