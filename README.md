@@ -33,6 +33,9 @@ The easiest way is just clone the whole repo from GitHub.
     or start manually from the module.
 
 Base parametrs of the scrips are: page - 10, query - "Silicon Valley", but you can find any artciles you want and how many you want, just chabge this parametrs.
+
 Params:
+
        page - How many pages you will found 
+       
        query - Any key words you would like to use
