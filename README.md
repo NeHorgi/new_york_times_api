@@ -5,6 +5,7 @@ For using it just copy all of these files in your work directory.
 The easiest way is just clone the whole repo from GitHub.
 
 First of all, when you will get this repo, choose Python 3 as a Base Interpreter in your IDE.
+I recommend to use Python 3.10, but you can choose any version of Python, from 3.8+.
 
 1) Install requirements by using command:
 
