@@ -4,6 +4,8 @@ This script returns news items by using New York Times API as a batches of lists
 For using it just copy all of these files in your work directory.
 The easiest way is just clone the whole repo from GitHub.
 
+First of all, when you will get this repo, choose Python 3 as a Base Interpreter in your IDE.
+
 1) Install requirements by using command:
 
        'pip install -r requirements.txt'
