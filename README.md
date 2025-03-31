@@ -7,11 +7,7 @@ The easiest way is just clone the whole repo from GitHub.
 First of all, when you will get this repo, choose Python 3 as a Base Interpreter in your IDE.
 I recommend to use Python 3.10, but you can choose any version of Python, from 3.8+.
 
-1) Install requirements by using command:
-
-       'pip install -r requirements.txt'
-
-2) Activate venv in you work directory
+1) Activate venv in you work directory
 
     For Windows (Git Bash):
 
@@ -23,6 +19,11 @@ I recommend to use Python 3.10, but you can choose any version of Python, from 3
        python -m venv venv
        venv/bin/activate
     Or do it manually, how it is suits to you.
+
+2) Install requirements by using command:
+
+       'pip install -r requirements.txt'
+   
 3) Create ".env" file in the root of directory and fill it with following data:
 
        API_KEY - New York Times API key
